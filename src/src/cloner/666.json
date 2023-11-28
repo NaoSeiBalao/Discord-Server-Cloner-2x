@@ -1,0 +1,2352 @@
+{
+    "name": "UmBostaSemVida 😈",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL_MESSAGES",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "🔒┃Priv",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "minhas-coisinhas-😁",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🥰-subs-🥰",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "spam-🚨",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "links-🔗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "configs-📌",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "x1-dos-crias-🔥",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "taspio-👴",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "❤-strychniness",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "sony-vegas-😈",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬-teclado",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "twitch-bans-❌",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "mendigo-de-banca",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "trabalho-escolar",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "traps-🔥🥶🥵",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "fortnite-code-maps",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔒┃Priv",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "SERVIDOR",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "1093941001041"
+                    },
+                    {
+                        "roleName": "👿",
+                        "allow": "1098236034641",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📝・regras",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "SERVIDOR",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "1093941001041"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1097967597121",
+                                "deny": "268437520"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💌・convite",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "SERVIDOR",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "1097967597121",
+                                "deny": "268437520"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "1093941001041"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🔊┃SOUNDPAD",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "Subscriber 🥶",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "👿",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "🌸 | Amores",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "Server Booster",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "carl-bot",
+                        "allow": "1049600",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✔-audios-de-vcs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "1179712"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1051648",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1051648",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🔊 - SOUNDPAD",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "🐒 | Macaco",
+                                "allow": "1024",
+                                "deny": "1048576"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔉-sons",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎶-musicas",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "😎-funks",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎭-pcc",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🐵-macaco",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🦍-meikod",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🐒-snopey",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤓-dona",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🐶-kchorrolooko",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏆-raulzito",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "😈-casaohehe",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "😐-oozy",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🙋♂-frostyyt",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👴-taspio",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🐋-eragon9x",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💚-stompay",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "😡-bistecone",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔊┃SOUNDPAD",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "carl-bot",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "👪┃FAMILHA",
+                "permissions": [
+                    {
+                        "roleName": "👿",
+                        "allow": "1098236034641",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "687231848000",
+                        "deny": "406709219601"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬・chat-geral",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👪┃FAMILHA",
+                        "topic": "<a:deluxe_zero:528323607433183242><a:deluxe_eight:528324053732294687><a:deluxe_five:528323921397940245><a:deluxe_three:528323825864015873>",
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "535529258065",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "32768",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "687231798848",
+                                "deny": "406709268753"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "👑",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "👪┃FAMILHA",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "1093941001041"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👿・chat-privado",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👪┃FAMILHA",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "👿",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "👪┃FAMILHA",
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "558680246033",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "549791467008",
+                                "deny": "8888778769"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🌸・chat-amores",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "👪┃FAMILHA",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "535529258065",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "687231844928",
+                                "deny": "406709222673"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "137439333440",
+                                "deny": "398089924625"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🌸・Amores",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "👪┃FAMILHA",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1048576"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "558680245777",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🔊・creche do titiu raul",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "👪┃FAMILHA",
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "1098236034641",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "687231848000",
+                                "deny": "406709219601"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🔊・odiadores de lgbt",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "👪┃FAMILHA",
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "1098236034641",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "687231848000",
+                                "deny": "406709219601"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "🌎┃CANAIS",
+                "permissions": [
+                    {
+                        "roleName": "Server Booster",
+                        "allow": "52224",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Subscriber 🥶",
+                        "allow": "35904",
+                        "deny": "805314576"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66625",
+                        "deny": "17985316880"
+                    },
+                    {
+                        "roleName": "👿",
+                        "allow": "3073",
+                        "deny": "805445648"
+                    },
+                    {
+                        "roleName": "🌸 | Amores",
+                        "allow": "68609",
+                        "deny": "17985314832"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎥-videos-aleatorios",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔞-videos-que-vaza",
+                        "nsfw": true,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🙏🏆-raulzito",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🐒-snopey",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🦍-meikod",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤓-dona",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🌞-grm",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🐶-kchorrolooko",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🏴☠-muriloso",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🙋-yfrosty-yt",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🐋-eragon9x",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "😈-casaohehe",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "😐-oozyzk",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "♿-gustavinho",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👦-zenon",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👴🏻-obodão",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💚-loud-coringa",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🙅-caaua",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "😡-bistecone",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🌎┃CANAIS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66625",
+                                "deny": "17985316880"
+                            },
+                            {
+                                "roleName": "Subscriber 🥶",
+                                "allow": "35904",
+                                "deny": "805314576"
+                            },
+                            {
+                                "roleName": "Server Booster",
+                                "allow": "52224",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "👿",
+                                "allow": "3073",
+                                "deny": "805445648"
+                            },
+                            {
+                                "roleName": "🌸 | Amores",
+                                "allow": "68609",
+                                "deny": "17985314832"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "🔔┃Notificações",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "197696",
+                        "deny": "395942361104"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🟣・lives",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔔┃Notificações",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "197696",
+                                "deny": "395942361104"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔴・videos",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔔┃Notificações",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "197696",
+                                "deny": "395942361104"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "moderator-only",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "👑 | Raulzito",
+            "color": "#020000",
+            "hoist": true,
+            "permissions": "28587302322175",
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "Subscriber 🥶",
+            "color": "#00fffc",
+            "hoist": true,
+            "permissions": "40647678873153",
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "👿",
+            "color": "#ff0004",
+            "hoist": true,
+            "permissions": "19789867114055",
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "🌸 | Amores",
+            "color": "#d34acd",
+            "hoist": true,
+            "permissions": "691547786817",
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "🐒 | Macaco",
+            "color": "#ce4900",
+            "hoist": true,
+            "permissions": "693674430017",
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "532855154658881",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [
+        {
+            "name": "UmBostaSemVida_Sorriso",
+            "url": "https://cdn.discordapp.com/emojis/956097839065333830.png"
+        },
+        {
+            "name": "UmBostaSemVida_Apaixonado",
+            "url": "https://cdn.discordapp.com/emojis/957493604010586142.png"
+        },
+        {
+            "name": "UmBostaSemVida_Fumante",
+            "url": "https://cdn.discordapp.com/emojis/957493886941548644.png"
+        },
+        {
+            "name": "UmBostaSemVida_RZT",
+            "url": "https://cdn.discordapp.com/emojis/960615500323377233.png"
+        },
+        {
+            "name": "UmBostaSemVida_Impressionado",
+            "url": "https://cdn.discordapp.com/emojis/967064223014354994.png"
+        },
+        {
+            "name": "UmBostaSemVida_Sorrisinho",
+            "url": "https://cdn.discordapp.com/emojis/967064345278283807.png"
+        },
+        {
+            "name": "UmBostaSemVida_Triste",
+            "url": "https://cdn.discordapp.com/emojis/967064600149368832.png"
+        },
+        {
+            "name": "UmBostaSemVida_Choro",
+            "url": "https://cdn.discordapp.com/emojis/967064699671806032.png"
+        },
+        {
+            "name": "UmBostaSemVida_Oculos",
+            "url": "https://cdn.discordapp.com/emojis/967064768278044742.png"
+        },
+        {
+            "name": "UmBostaSemVida_Chapeu",
+            "url": "https://cdn.discordapp.com/emojis/967069874360819722.png"
+        },
+        {
+            "name": "UmBostaSemVida_Estranho",
+            "url": "https://cdn.discordapp.com/emojis/967069962059530361.png"
+        },
+        {
+            "name": "UmBostaSemVida_Serio",
+            "url": "https://cdn.discordapp.com/emojis/967070094725365791.png"
+        },
+        {
+            "name": "UmBostaSemVida_Piscadinha",
+            "url": "https://cdn.discordapp.com/emojis/967070173314027530.png"
+        },
+        {
+            "name": "UmBostaSemVida_Maluco",
+            "url": "https://cdn.discordapp.com/emojis/1045988211551387728.png"
+        },
+        {
+            "name": "UmBostaSemVida_Gorila",
+            "url": "https://cdn.discordapp.com/emojis/1045988330980003870.png"
+        },
+        {
+            "name": "UmBostaSemVida_Risada",
+            "url": "https://cdn.discordapp.com/emojis/1045988421337878569.png"
+        },
+        {
+            "name": "UmBostaSemVida_Assustado",
+            "url": "https://cdn.discordapp.com/emojis/1045988589999235082.png"
+        },
+        {
+            "name": "BeatrizBottino",
+            "url": "https://cdn.discordapp.com/emojis/1046240062658072626.gif"
+        }
+    ],
+    "createdTimestamp": 1701099864794,
+    "guildID": "955938069645778995",
+    "id": "1178723008303464448",
+    "iconURL": "https://cdn.discordapp.com/icons/955938069645778995/98a9a7164b09982926c40ad7ead5ca04.webp"
+}
